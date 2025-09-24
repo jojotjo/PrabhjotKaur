@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Prabhjot Kaur  
 
-🎓 **5th Semester CSE Student @Chitkara University**  
+🎓 **5th Semester CSE Student at Chitkara University**  
 💡 Passionate about **Full-Stack Development, Java, and Cloud Computing**  
-🌏 Currently on a **Semester Exchange Program @ Telkom University, Indonesia**  
+🌏 Currently on a **Semester Exchange Program at Telkom University, Indonesia**  
 🚀 Exploring tech through **projects, hackathons, and collaborations**  
 
 ---
